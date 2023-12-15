@@ -1,0 +1,1 @@
+[28-Nov-2023 12:07:22 UTC] PHP Fatal error:  Cannot redeclare tr_create_my_taxonomy() (previously declared in /home2/creatyz1/public_html/development/shiloh-church/wp-content/themes/church themes/functions.php:716) in /home2/creatyz1/public_html/development/shiloh-church/wp-content/themes/church themes/functions.php on line 787
